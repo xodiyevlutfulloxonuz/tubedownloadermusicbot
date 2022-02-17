@@ -1,7 +1,3 @@
-from email.mime import audio
-from enum import auto
-from nturl2path import url2pathname
-from tkinter.messagebox import NO
 from aiogram import types
 from loader import dp
 from aiogram.dispatcher.filters import Text
